@@ -29,12 +29,9 @@
   <a href="https://www.linkedin.com/in/rennan-morais-34bb50138/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:mr.rennan.morais@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
 </div>
 
 ### Sobre mim
 <p>Sou apaixonado em aprender e também compartilhar com outras pessoas o conhecimento adquirido. Amo quebrar a cabeça com códigos, sou desenvolvedor <strong>Java</strong> e tambem gosto de outras técnologias como <strong>PHP</strong> e <strong>JavaScript</strong>.</p>
 
-![Snake animation](https://github.com/RennanMorais/RennanMorais/tree/main/.github/workflows/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/RennanMorais/RennanMorais/blob/output/github-contribution-grid-snake.svg)
