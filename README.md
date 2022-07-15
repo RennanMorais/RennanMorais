@@ -2,7 +2,7 @@
 # Eu sou Rennan Morais
 
 <div>
-  <a href="https://github.com/RaylsonMarques">
+  <a href="https://github.com/RennanMorais">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RennanMorais&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RennanMorais&layout=compact&langs_count=16&theme=dark"/>
   </a>
@@ -37,4 +37,4 @@
 ### Sobre mim
 <p>Sou apaixonado em aprender e também compartilhar com outras pessoas o conhecimento adquirido. Amo quebrar a cabeça com códigos, sou desenvolvedor <strong>Java</strong> e tambem gosto de outras técnologias como <strong>PHP</strong> e <strong>JavaScript</strong>.</p>
 
-![Snake animation](https://github.com/RennanMorais/RennanMorais/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/RennanMorais/RennanMorais/tree/main/.github/workflows/github-contribution-grid-snake.svg)
