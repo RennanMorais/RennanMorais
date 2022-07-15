@@ -34,4 +34,4 @@
 ### Sobre mim
 <p>Sou apaixonado em aprender e também compartilhar com outras pessoas o conhecimento adquirido. Amo quebrar a cabeça com códigos, sou desenvolvedor <strong>Java</strong> e tambem gosto de outras técnologias como <strong>PHP</strong> e <strong>JavaScript</strong>.</p>
 
-![Snake animation](https://github.com/RennanMorais/RennanMorais/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/RennanMorais/RennanMorais/blob/main/.github/workflows/github-contribution-grid-snake.svg)
