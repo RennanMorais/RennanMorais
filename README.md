@@ -1,5 +1,4 @@
-# Olá, mundo!
-# Eu sou Rennan Morais
+# Olá, eu sou Rennan Morais!
 
 <div>
   <a href="https://github.com/RennanMorais">
