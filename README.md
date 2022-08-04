@@ -38,7 +38,7 @@
 ----------------------------------------------------------------------------------
 
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=740fernando&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+  <img alig src="https://github-profile-trophy.vercel.app/?username=RennanMorais&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
 ----------------------------------------------------------------------------------
