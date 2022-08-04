@@ -44,3 +44,15 @@
 ----------------------------------------------------------------------------------
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RennanMorais&bg_color=144a19&color=ff7c00&line=00ffff&point=ffffff&area=true&hide_border=false&count_private=true)
+
+----------------------------------------------------------------------------------
+
+<p align="center"> 
+<img align="center" src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
+</p>
+
+<br>
+
+<p align="center">  
+ <img src="https://visitor-badge.laobi.icu/badge?page_id=RennanMorais.RennanMorais" alt="Contador">
+</p>
