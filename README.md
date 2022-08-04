@@ -30,7 +30,17 @@
   </a>
 </div>
 
+----------------------------------------------------------------------------------
+
 ### Sobre mim
 <p>Sou apaixonado em aprender e também compartilhar com outras pessoas o conhecimento adquirido. Amo quebrar a cabeça com códigos, sou desenvolvedor <strong>Java</strong> e tambem gosto de outras técnologias como <strong>PHP</strong> e <strong>JavaScript</strong>.</p>
 
-![Snake animation](https://github.com/RennanMorais/RennanMorais/blob/main/.github/workflows/github-contribution-grid-snake.svg)
+----------------------------------------------------------------------------------
+
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=740fernando&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+</p>
+
+----------------------------------------------------------------------------------
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=740fernando&bg_color=144a19&color=ff7c00&line=00ffff&point=ffffff&area=true&hide_border=false&count_private=true)
