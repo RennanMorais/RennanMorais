@@ -38,7 +38,7 @@
 
 ----------------------------------------------------------------------------------
 
-![GitHub Activity Graph](https://github-readme-stats.vercel.app/api/top-langs?username=valentinefernandes&langs_count=20&show_icons=true&locale=en&layout=compact)
+![GitHub Activity Graph](https://github-readme-stats.vercel.app/api/top-langs?username=RennanMorais&langs_count=20&show_icons=true&locale=en&layout=compact)
 
 ----------------------------------------------------------------------------------
 
