@@ -38,7 +38,7 @@
 
 ----------------------------------------------------------------------------------
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RennanMorais&bg_color=0072ff&color=ffffff&line=00ffff&point=ffffff&area=true&hide_border=false&count_private=true)
+![GitHub Activity Graph](https://github-readme-stats.vercel.app/api/top-langs?username=valentinefernandes&langs_count=20&show_icons=true&locale=en&layout=compact)
 
 ----------------------------------------------------------------------------------
 
