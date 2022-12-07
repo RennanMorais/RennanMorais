@@ -1,11 +1,9 @@
-# Olá, eu sou Rennan!
+## Olá, eu sou Rennan! 👋
 
-<div>
-  <a href="https://github.com/RennanMorais">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RennanMorais&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RennanMorais&layout=compact&langs_count=16&theme=dark"/>
-  </a>
-</div>
+
+
+![Rennan Morais GitHub stats](https://github-readme-stats.vercel.app/api?username=RennanMorais&show_icons=true&theme=dracula)
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Spring" height="30" width="40" src="https://spring.io/images/spring-initializr-4291cc0115eb104348717b82161a81de.svg">
@@ -35,10 +33,6 @@
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=RennanMorais&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
-
-----------------------------------------------------------------------------------
-
-![GitHub Activity Graph](https://github-readme-stats.vercel.app/api/top-langs?username=RennanMorais&langs_count=20&show_icons=true&locale=en&layout=compact)
 
 ----------------------------------------------------------------------------------
 
