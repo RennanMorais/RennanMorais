@@ -25,7 +25,7 @@
 
 ### Sobre mim
 
-Sou apaixonado por aprender e compartilhar conhecimento com outras pessoas. Amo desafios envolvendo código! Sou desenvolvedor **Java**, mas também gosto de explorar outras tecnologias, como **PHP** e **JavaScript**.
+Sou apaixonado por programação, gosto de aprender coisas novas e compartilhar conhecimento. Amo desafios envolvendo código! Sou desenvolvedor **Java**, mas também gosto de explorar outras tecnologias, como **Node** , **PHP**, **Angular** e **JavaScript**.
 
 ---
 
